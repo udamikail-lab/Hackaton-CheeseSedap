@@ -1,4 +1,5 @@
 GXBank Web Application - README
+Deployment Link:https://cheesesedapgxbank.gamer.gd/gxbank_html_by_page/index.php
 
 Project Overview
 ----------------
